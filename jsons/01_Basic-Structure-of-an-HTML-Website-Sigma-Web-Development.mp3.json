@@ -1,0 +1,1538 @@
+{
+  "chunks": [
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 0.0,
+      "end": 3.72,
+      "text": " What happened? You guys are back in Sigma Web Development course."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 3.72,
+      "end": 7.28,
+      "text": " I am really happy that you guys have given so much love to this course."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 7.28,
+      "end": 9.36,
+      "text": " You guys like this high energy."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 9.36,
+      "end": 13.120000000000001,
+      "text": " Because for Sigma Free course, this is the likes of Sigma Chats."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 13.120000000000001,
+      "end": 15.68,
+      "text": " In today's video, I will explain to you guys basic structure."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 15.68,
+      "end": 17.6,
+      "text": " I will explain to you guys in a website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 17.6,
+      "end": 20.88,
+      "text": " In that website, you guys will learn a mobile trick."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 20.88,
+      "end": 25.76,
+      "text": " You will learn that you can preview your phone from this website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 25.76,
+      "end": 30.560000000000002,
+      "text": " You guys can tell me in the comments section that you can get HTML or not."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 30.560000000000002,
+      "end": 32.64,
+      "text": " That will help me structure this course better."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 32.64,
+      "end": 35.480000000000004,
+      "text": " In this video, I will explain the impact of 4GBD."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 35.480000000000004,
+      "end": 38.44,
+      "text": " Because it is very fast about 4GBD."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 38.44,
+      "end": 41.08,
+      "text": " In the coming videos, I will also give you guys quizzes."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 41.08,
+      "end": 44.32,
+      "text": " So learn this video carefully and understand all the concepts."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 44.32,
+      "end": 47.28,
+      "text": " Let's go to the computer screen and let's roll the internet."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 55.839999999999996,
+      "end": 58.0,
+      "text": " So guys, I am in the computer screen."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 58.0,
+      "end": 64.56,
+      "text": " Now we will talk about how to use Open-Tax, Loosing, Text, Structure, and Website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 64.56,
+      "end": 73.75999999999999,
+      "text": " So here, I will make a new folder called Video3 and open it with the Open-Vit code."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 73.75999999999999,
+      "end": 77.6,
+      "text": " And you guys can see that my theme is blue color."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 77.6,
+      "end": 79.75999999999999,
+      "text": " And many people said that blue is not good."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 79.75999999999999,
+      "end": 82.16,
+      "text": " Look, the theme is the choice of your choice."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 82.16,
+      "end": 86.72,
+      "text": " If you want to change the color theme, you can change the color theme."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 86.72,
+      "end": 88.72,
+      "text": " I can use the dark color of the grid up."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 88.72,
+      "end": 90.72,
+      "text": " And I can use the dark color of the grid up."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 90.72,
+      "end": 94.16,
+      "text": " I will add an index.html to make a new file."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 94.16,
+      "end": 95.92,
+      "text": " We already talked about this."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 95.92,
+      "end": 99.75999999999999,
+      "text": " Here, if I write the title of the page and content here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 99.75999999999999,
+      "end": 106.56,
+      "text": " Then I will use the link tag and then use the MET and link the style.css."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 106.56,
+      "end": 109.75999999999999,
+      "text": " That's why I am already talking about this in the previous video."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 109.76,
+      "end": 115.52000000000001,
+      "text": " Now, if I write the script.js here and then I will write alert from the alert."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 115.52000000000001,
+      "end": 117.12,
+      "text": " So I will not tell you the exact same thing."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 117.12,
+      "end": 120.96000000000001,
+      "text": " Here, if I put a script tag here and then just before the body."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 120.96000000000001,
+      "end": 125.76,
+      "text": " And then, I will write script.css here and then write script.js."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 125.76,
+      "end": 128.56,
+      "text": " And here, click here and then open with browser."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 128.56,
+      "end": 132.8,
+      "text": " So this will come and if I write the background of the body here, then it will be red."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 132.8,
+      "end": 134.16,
+      "text": " I will not tell you all this."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 134.16,
+      "end": 136.56,
+      "text": " Because I have already told you guys."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 136.64000000000001,
+      "end": 140.56,
+      "text": " Now, I will tell you that what is this structure?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 140.56,
+      "end": 141.76,
+      "text": " Why did you write so much?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 141.76,
+      "end": 142.96,
+      "text": " This is a doubt."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 142.96,
+      "end": 146.16,
+      "text": " We can write the title and the content directly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 146.16,
+      "end": 148.16,
+      "text": " So much to write."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 148.16,
+      "end": 150.56,
+      "text": " So I will tell you how much to write."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 150.56,
+      "end": 151.36,
+      "text": " I will reload it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 151.36,
+      "end": 155.36,
+      "text": " Look, the content here is here and this is red."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 155.36,
+      "end": 158.16,
+      "text": " Now, you will see that I need to reload the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 158.16,
+      "end": 160.96,
+      "text": " People will ask me why to reload the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 160.96,
+      "end": 162.96,
+      "text": " When I reload the page already."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 162.96,
+      "end": 164.56,
+      "text": " So, look, I changed the CSS file."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 164.56,
+      "end": 168.16,
+      "text": " When I change CSS file, I will need to reload at times."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 168.16,
+      "end": 170.56,
+      "text": " If you are using HTML file, you are changing it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 170.56,
+      "end": 174.56,
+      "text": " You will not need to reload the HTML file changes."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 174.56,
+      "end": 176.96,
+      "text": " Now, here, I will do something."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 176.96,
+      "end": 178.96,
+      "text": " I will come back and explain to you."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 178.96,
+      "end": 180.96,
+      "text": " This is a basic structure."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 180.96,
+      "end": 182.96,
+      "text": " We write HTML website first."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 182.96,
+      "end": 184.16,
+      "text": " We write doc type HTML."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 184.16,
+      "end": 185.76,
+      "text": " Then write HTML tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 185.76,
+      "end": 188.56,
+      "text": " Look, HTML tag is opening tag or closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 188.56,
+      "end": 190.16,
+      "text": " This is the opening tag of the body."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 190.16,
+      "end": 190.96,
+      "text": " This is the closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 190.96,
+      "end": 193.36,
+      "text": " This is the head opening tag or closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 193.36,
+      "end": 195.76000000000002,
+      "text": " This is the head content of the body."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 195.76000000000002,
+      "end": 199.36,
+      "text": " What is the head content of the HTML?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 199.36,
+      "end": 202.56,
+      "text": " The title content of the body is the title content."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 202.56,
+      "end": 204.56,
+      "text": " Now, what is the content of the meta?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 204.56,
+      "end": 207.36,
+      "text": " The meta is a self closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 207.36,
+      "end": 208.56,
+      "text": " There are two types of tags in HTML."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 208.56,
+      "end": 209.76000000000002,
+      "text": " One is self closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 209.76000000000002,
+      "end": 210.96,
+      "text": " And the other is the pair tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 210.96,
+      "end": 212.16000000000003,
+      "text": " What is the pair tag?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 212.16000000000003,
+      "end": 214.56,
+      "text": " The opening tag is the closing tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 214.56,
+      "end": 216.96,
+      "text": " This is the basic structure of the HTML website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 216.96,
+      "end": 218.96,
+      "text": " Now, you will see that background red is the background red."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 218.96,
+      "end": 220.96,
+      "text": " This is the background red."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 220.96,
+      "end": 222.96,
+      "text": " This is the background red."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 222.96,
+      "end": 226.16,
+      "text": " Let me open CSS, and I will say that I can open the CSS quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 226.16,
+      "end": 228.16,
+      "text": " What will I say?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 228.16,
+      "end": 230.16,
+      "text": " Open it quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 230.16,
+      "end": 231.36,
+      "text": " Open it quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 231.36,
+      "end": 233.36,
+      "text": " I will have to open it quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 233.36,
+      "end": 234.56,
+      "text": " I will reload the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 234.56,
+      "end": 236.56,
+      "text": " You can see that the page is now."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 236.56,
+      "end": 238.56,
+      "text": " I can also say that I can also say that I can open it quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 238.56,
+      "end": 239.76000000000002,
+      "text": " Open it quickly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 239.76000000000002,
+      "end": 241.76000000000002,
+      "text": " You can see that I can also say that I can also add alert."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 241.76000000000002,
+      "end": 242.76000000000002,
+      "text": " Okay?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 242.76000000000002,
+      "end": 244.76000000000002,
+      "text": " If you see I can also reload the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 244.76000000000002,
+      "end": 246.76000000000002,
+      "text": " This is the HTML content."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 246.76000000000002,
+      "end": 248.96,
+      "text": " Inside I had added CSS and JavaScript."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 248.96,
+      "end": 252.16,
+      "text": " This is additionally CSS and JavaScript functionality."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 252.16,
+      "end": 256.15999999999997,
+      "text": " I used this HTML page to link it to this HTML page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 256.15999999999997,
+      "end": 258.15999999999997,
+      "text": " I already told you about the title tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 258.15999999999997,
+      "end": 260.15999999999997,
+      "text": " It is used to set the page title."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 260.15999999999997,
+      "end": 263.15999999999997,
+      "text": " Now, it is not only the purpose of this, you can see the title here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 263.15999999999997,
+      "end": 266.15999999999997,
+      "text": " The search engines use it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 266.15999999999997,
+      "end": 271.15999999999997,
+      "text": " The search engines are Google and you can find code with Harry HTML."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 271.15999999999997,
+      "end": 274.15999999999997,
+      "text": " So, code with Harry's HTML introduction, HTML working,"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 274.15999999999997,
+      "end": 276.15999999999997,
+      "text": " all the titles are put in the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 276.15999999999997,
+      "end": 279.15999999999997,
+      "text": " You can see here, the HTML introduction is the title of the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 279.16,
+      "end": 283.16,
+      "text": " The titles are used to set the search engines and parts."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 283.16,
+      "end": 286.16,
+      "text": " Now, I will change the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 286.16,
+      "end": 288.16,
+      "text": " Here, HTML working is the title."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 288.16,
+      "end": 290.16,
+      "text": " Now, I will change the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 290.16,
+      "end": 292.16,
+      "text": " You can see here, HTML installation is the title."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 292.16,
+      "end": 294.16,
+      "text": " So, the titles are changed."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 294.16,
+      "end": 299.16,
+      "text": " You can change it like you will be able to see it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 299.16,
+      "end": 305.16,
+      "text": " So, HTML pages only means that you can see here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 305.16,
+      "end": 307.16,
+      "text": " You can also use it in this way."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 307.16,
+      "end": 310.16,
+      "text": " Now, let's talk about the content of the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 310.16,
+      "end": 313.16,
+      "text": " The content that we describe here,"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 313.16,
+      "end": 316.16,
+      "text": " HTML execution is what we know."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 316.16,
+      "end": 318.16,
+      "text": " HTML execution means how HTML is executed."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 318.16,
+      "end": 320.16,
+      "text": " I am going to tell you about this page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 320.16,
+      "end": 322.16,
+      "text": " So, the title of the page is very good."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 322.16,
+      "end": 324.16,
+      "text": " We will make a website from any framework."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 324.16,
+      "end": 326.16,
+      "text": " We will change the title of the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 326.16,
+      "end": 330.16,
+      "text": " Now, here, the head section, the title of the page is the title."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 330.16,
+      "end": 334.16,
+      "text": " You can click on the link in the description box."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 334.16,
+      "end": 337.16,
+      "text": " You can also use the meta tags."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 337.16,
+      "end": 340.16,
+      "text": " I will tell you about the meta tags."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 340.16,
+      "end": 343.16,
+      "text": " HTML document is how it is."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 343.16,
+      "end": 346.16,
+      "text": " It is called the meta description."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 346.16,
+      "end": 349.16,
+      "text": " It is a very important keyword."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 349.16,
+      "end": 352.16,
+      "text": " You can write it in the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 352.16,
+      "end": 354.16,
+      "text": " You can also go to my website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 354.16,
+      "end": 356.16,
+      "text": " You can see the view of the page."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 356.16,
+      "end": 359.16,
+      "text": " It is called meta description tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 359.16,
+      "end": 363.16,
+      "text": " You can see here, you can see the meta description tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 363.16,
+      "end": 366.16,
+      "text": " If you are talking about Google, then you can see the meta description."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 366.16,
+      "end": 369.16,
+      "text": " I want to show you,"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 369.16,
+      "end": 373.16,
+      "text": " what is the head in HTML."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 373.16,
+      "end": 377.16,
+      "text": " You can also put the link tags in the link tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 377.16,
+      "end": 381.16,
+      "text": " You can also put the link tags in the link tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 381.16,
+      "end": 384.16,
+      "text": " You can also put the link tags in the link."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 384.16,
+      "end": 387.16,
+      "text": " You can also use the link tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 387.16,
+      "end": 390.16,
+      "text": " You can also add CSS to the link."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 390.16,
+      "end": 393.16,
+      "text": " You can also add the link in the link in the description box."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 394.16,
+      "end": 398.16,
+      "text": " You can also use the link in the link in the description box."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 398.16,
+      "end": 403.16,
+      "text": " You can also add the link in the description box which you will get for later user userspause."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 403.16,
+      "end": 407.16,
+      "text": " You can use it in the description box."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 407.16,
+      "end": 409.16,
+      "text": " You can also estud the dish Hi, dear,"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 409.16,
+      "end": 413.16,
+      "text": " You can copied this Add potassium Powder."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 413.16,
+      "end": 417.16,
+      "text": " Search for views on target tags."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 417.16,
+      "end": 419.32000000000005,
+      "text": " Here a lecture will be monter tag."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 422.0,
+      "end": 424.90000000000003,
+      "text": " We also talk about them here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 424.90000000000003,
+      "end": 427.12,
+      "text": " The chosen name is named\u901fands."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 427.12,
+      "end": 429.74,
+      "text": " Talking about their, they are a molotov."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 430.74,
+      "end": 431.74,
+      "text": " Bye for now."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 444.0,
+      "end": 447.0,
+      "text": " We will talk about them here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 447.0,
+      "end": 453.0,
+      "text": " So, if you copy the stable forms, then you will start making your form and modify it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 453.0,
+      "end": 456.0,
+      "text": " So, copy paste is very important to you."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 456.0,
+      "end": 462.0,
+      "text": " As a senior developer, you should know where to copy paste and when to copy and not saying it is sarcasticly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 462.0,
+      "end": 464.0,
+      "text": " Okay, I am not saying it is sarcasticly."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 464.0,
+      "end": 467.0,
+      "text": " This thing is always the same. You can type it or copy paste."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " Obviously, you will prefer copy paste."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 469.0,
+      "end": 472.0,
+      "text": " Because this is going to change. The form will remain there."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 472.0,
+      "end": 475.0,
+      "text": " And if you copy paste, then your time will be saved."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 475.0,
+      "end": 478.0,
+      "text": " Then, innovation is not a copy paste."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 478.0,
+      "end": 485.0,
+      "text": " So, you can understand the way you copy paste is what you want to copy paste."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 485.0,
+      "end": 487.0,
+      "text": " And where you want to copy paste is what you want to copy paste."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 487.0,
+      "end": 489.0,
+      "text": " So, you will save time and save time."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 492.0,
+      "end": 496.0,
+      "text": " The most important part of being a senior software developer is to where to copy paste from."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 496.0,
+      "end": 499.0,
+      "text": " Which stack or flow question to copy paste from."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 499.0,
+      "end": 502.0,
+      "text": " And how to paste it from where copyright code is added."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 502.0,
+      "end": 505.0,
+      "text": " You can copy paste from where copyright code is added."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 505.0,
+      "end": 508.0,
+      "text": " And how to copy paste from where copyright code is added."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 508.0,
+      "end": 513.0,
+      "text": " Now, I will tell you about a technique that you will develop on this website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 513.0,
+      "end": 516.0,
+      "text": " You will see in this mobile."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " Now, you have to listen carefully to the steps."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 518.0,
+      "end": 521.0,
+      "text": " You have to write, open terminal and open IP config."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 521.0,
+      "end": 524.0,
+      "text": " If you are in the old version, you can open command prompt or power shell."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 524.0,
+      "end": 526.0,
+      "text": " You will enter like the IP config."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 526.0,
+      "end": 528.0,
+      "text": " You will see IPv4 address."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 528.0,
+      "end": 531.0,
+      "text": " You will get 19216.819."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 531.0,
+      "end": 534.0,
+      "text": " Now, I will copy the IP address here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 534.0,
+      "end": 537.0,
+      "text": " So, I will copy this IPv4 address."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 537.0,
+      "end": 540.0,
+      "text": " And I will write in my settings live preview."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 540.0,
+      "end": 543.0,
+      "text": " The local IP host address to host files on this place."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 543.0,
+      "end": 546.0,
+      "text": " I will write this place on this place."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 546.0,
+      "end": 549.0,
+      "text": " And after doing this, I will restart my VS code."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 549.0,
+      "end": 556.0,
+      "text": " You will have to ensure that you go to your wifi settings and do your private network."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 556.0,
+      "end": 559.0,
+      "text": " You will have to do private network."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 559.0,
+      "end": 562.0,
+      "text": " You will have to do private network and do private network."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 562.0,
+      "end": 564.0,
+      "text": " You will have to do private network."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 564.0,
+      "end": 567.0,
+      "text": " And now, you will have to do the show preview."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 567.0,
+      "end": 570.0,
+      "text": " You will get a slash index.stml address."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 570.0,
+      "end": 574.0,
+      "text": " I can use this IP address here too."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 574.0,
+      "end": 578.0,
+      "text": " So, I will add 19216.8199."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 578.0,
+      "end": 580.0,
+      "text": " You can get 3000 of colon 5000."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 580.0,
+      "end": 582.0,
+      "text": " You can also add your port."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 582.0,
+      "end": 584.0,
+      "text": " And you will see here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 584.0,
+      "end": 586.0,
+      "text": " The website is previewed in mobile."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 586.0,
+      "end": 590.0,
+      "text": " This trick is very useful when we want to preview in mobile."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 590.0,
+      "end": 593.0,
+      "text": " Because today, we will see more websites in phone."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 593.0,
+      "end": 595.0,
+      "text": " So, we will try to use our phone."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 595.0,
+      "end": 598.0,
+      "text": " It will be good for our website."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 598.0,
+      "end": 600.0,
+      "text": " And we will be able to do it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 600.0,
+      "end": 602.0,
+      "text": " And we will be able to do it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 602.0,
+      "end": 605.0,
+      "text": " If you have not put reviews in the first video,"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 605.0,
+      "end": 609.0,
+      "text": " I will request you to review your course."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 609.0,
+      "end": 611.0,
+      "text": " I have told you in the last video."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 611.0,
+      "end": 613.0,
+      "text": " I have put a initial review."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 613.0,
+      "end": 615.0,
+      "text": " How did you like it?"
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 615.0,
+      "end": 617.0,
+      "text": " You will write the initial review."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 617.0,
+      "end": 620.0,
+      "text": " People will know what is the initial review of this course."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 620.0,
+      "end": 624.0,
+      "text": " You will have to access the playlist description."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 624.0,
+      "end": 626.0,
+      "text": " You will have to book it here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 626.0,
+      "end": 628.0,
+      "text": " Or you will have to book it."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 628.0,
+      "end": 630.0,
+      "text": " And you will have to show it in the book."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 630.0,
+      "end": 633.0,
+      "text": " I have booked the sigma web development course."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 633.0,
+      "end": 635.0,
+      "text": " You can save it here."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 635.0,
+      "end": 638.0,
+      "text": " I want to access all the players."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 638.0,
+      "end": 640.0,
+      "text": " You can book, book, book, book, book, book, book."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 640.0,
+      "end": 642.0,
+      "text": " So, you can access the playlist."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 642.0,
+      "end": 643.0,
+      "text": " Like the video."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 643.0,
+      "end": 645.0,
+      "text": " You can also call your village and your friends."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 645.0,
+      "end": 647.0,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "01",
+      "title": "Basic-Structure-of-an-HTML-Website-Sigma-Web-Development",
+      "start": 647.0,
+      "end": 649.0,
+      "text": " And I will see you next time."
+    }
+  ],
+  "text": " What happened? You guys are back in Sigma Web Development course. I am really happy that you guys have given so much love to this course. You guys like this high energy. Because for Sigma Free course, this is the likes of Sigma Chats. In today's video, I will explain to you guys basic structure. I will explain to you guys in a website. In that website, you guys will learn a mobile trick. You will learn that you can preview your phone from this website. You guys can tell me in the comments section that you can get HTML or not. That will help me structure this course better. In this video, I will explain the impact of 4GBD. Because it is very fast about 4GBD. In the coming videos, I will also give you guys quizzes. So learn this video carefully and understand all the concepts. Let's go to the computer screen and let's roll the internet. So guys, I am in the computer screen. Now we will talk about how to use Open-Tax, Loosing, Text, Structure, and Website. So here, I will make a new folder called Video3 and open it with the Open-Vit code. And you guys can see that my theme is blue color. And many people said that blue is not good. Look, the theme is the choice of your choice. If you want to change the color theme, you can change the color theme. I can use the dark color of the grid up. And I can use the dark color of the grid up. I will add an index.html to make a new file. We already talked about this. Here, if I write the title of the page and content here. Then I will use the link tag and then use the MET and link the style.css. That's why I am already talking about this in the previous video. Now, if I write the script.js here and then I will write alert from the alert. So I will not tell you the exact same thing. Here, if I put a script tag here and then just before the body. And then, I will write script.css here and then write script.js. And here, click here and then open with browser. So this will come and if I write the background of the body here, then it will be red. I will not tell you all this. Because I have already told you guys. Now, I will tell you that what is this structure? Why did you write so much? This is a doubt. We can write the title and the content directly. So much to write. So I will tell you how much to write. I will reload it. Look, the content here is here and this is red. Now, you will see that I need to reload the page. People will ask me why to reload the page. When I reload the page already. So, look, I changed the CSS file. When I change CSS file, I will need to reload at times. If you are using HTML file, you are changing it. You will not need to reload the HTML file changes. Now, here, I will do something. I will come back and explain to you. This is a basic structure. We write HTML website first. We write doc type HTML. Then write HTML tag. Look, HTML tag is opening tag or closing tag. This is the opening tag of the body. This is the closing tag. This is the head opening tag or closing tag. This is the head content of the body. What is the head content of the HTML? The title content of the body is the title content. Now, what is the content of the meta? The meta is a self closing tag. There are two types of tags in HTML. One is self closing tag. And the other is the pair tag. What is the pair tag? The opening tag is the closing tag. This is the basic structure of the HTML website. Now, you will see that background red is the background red. This is the background red. This is the background red. Let me open CSS, and I will say that I can open the CSS quickly. What will I say? Open it quickly. Open it quickly. I will have to open it quickly. I will reload the page. You can see that the page is now. I can also say that I can also say that I can open it quickly. Open it quickly. You can see that I can also say that I can also add alert. Okay? If you see I can also reload the page. This is the HTML content. Inside I had added CSS and JavaScript. This is additionally CSS and JavaScript functionality. I used this HTML page to link it to this HTML page. I already told you about the title tag. It is used to set the page title. Now, it is not only the purpose of this, you can see the title here. The search engines use it. The search engines are Google and you can find code with Harry HTML. So, code with Harry's HTML introduction, HTML working, all the titles are put in the page. You can see here, the HTML introduction is the title of the page. The titles are used to set the search engines and parts. Now, I will change the page. Here, HTML working is the title. Now, I will change the page. You can see here, HTML installation is the title. So, the titles are changed. You can change it like you will be able to see it. So, HTML pages only means that you can see here. You can also use it in this way. Now, let's talk about the content of the page. The content that we describe here, HTML execution is what we know. HTML execution means how HTML is executed. I am going to tell you about this page. So, the title of the page is very good. We will make a website from any framework. We will change the title of the page. Now, here, the head section, the title of the page is the title. You can click on the link in the description box. You can also use the meta tags. I will tell you about the meta tags. HTML document is how it is. It is called the meta description. It is a very important keyword. You can write it in the page. You can also go to my website. You can see the view of the page. It is called meta description tag. You can see here, you can see the meta description tag. If you are talking about Google, then you can see the meta description. I want to show you, what is the head in HTML. You can also put the link tags in the link tag. You can also put the link tags in the link tag. You can also put the link tags in the link. You can also use the link tag. You can also add CSS to the link. You can also add the link in the link in the description box. You can also use the link in the link in the description box. You can also add the link in the description box which you will get for later user userspause. You can use it in the description box. You can also estud the dish Hi, dear, You can copied this Add potassium Powder. Search for views on target tags. Here a lecture will be monter tag. We also talk about them here. The chosen name is named\u901fands. Talking about their, they are a molotov. Bye for now. We will talk about them here. So, if you copy the stable forms, then you will start making your form and modify it. So, copy paste is very important to you. As a senior developer, you should know where to copy paste and when to copy and not saying it is sarcasticly. Okay, I am not saying it is sarcasticly. This thing is always the same. You can type it or copy paste. Obviously, you will prefer copy paste. Because this is going to change. The form will remain there. And if you copy paste, then your time will be saved. Then, innovation is not a copy paste. So, you can understand the way you copy paste is what you want to copy paste. And where you want to copy paste is what you want to copy paste. So, you will save time and save time. The most important part of being a senior software developer is to where to copy paste from. Which stack or flow question to copy paste from. And how to paste it from where copyright code is added. You can copy paste from where copyright code is added. And how to copy paste from where copyright code is added. Now, I will tell you about a technique that you will develop on this website. You will see in this mobile. Now, you have to listen carefully to the steps. You have to write, open terminal and open IP config. If you are in the old version, you can open command prompt or power shell. You will enter like the IP config. You will see IPv4 address. You will get 19216.819. Now, I will copy the IP address here. So, I will copy this IPv4 address. And I will write in my settings live preview. The local IP host address to host files on this place. I will write this place on this place. And after doing this, I will restart my VS code. You will have to ensure that you go to your wifi settings and do your private network. You will have to do private network. You will have to do private network and do private network. You will have to do private network. And now, you will have to do the show preview. You will get a slash index.stml address. I can use this IP address here too. So, I will add 19216.8199. You can get 3000 of colon 5000. You can also add your port. And you will see here. The website is previewed in mobile. This trick is very useful when we want to preview in mobile. Because today, we will see more websites in phone. So, we will try to use our phone. It will be good for our website. And we will be able to do it. And we will be able to do it. If you have not put reviews in the first video, I will request you to review your course. I have told you in the last video. I have put a initial review. How did you like it? You will write the initial review. People will know what is the initial review of this course. You will have to access the playlist description. You will have to book it here. Or you will have to book it. And you will have to show it in the book. I have booked the sigma web development course. You can save it here. I want to access all the players. You can book, book, book, book, book, book, book. So, you can access the playlist. Like the video. You can also call your village and your friends. Thank you so much for watching this video. And I will see you next time."
+}

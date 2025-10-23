@@ -1,0 +1,3211 @@
+{
+  "chunks": [
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 0.0,
+      "end": 3.2800000000000002,
+      "text": " In today's video, I will tell you about the settings and paragraphs"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 3.2800000000000002,
+      "end": 6.38,
+      "text": " I will tell you about the anchor text"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 6.38,
+      "end": 9.84,
+      "text": " If you have found this course awesome, then like this video"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 9.84,
+      "end": 12.34,
+      "text": " Like and share this video with your friends"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 12.34,
+      "end": 14.08,
+      "text": " In this video, we will make a small project"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 14.08,
+      "end": 15.64,
+      "text": " Which will be a bookmark website"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 15.64,
+      "end": 20.16,
+      "text": " This bookmark website will help you to get all your favorite websites"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 20.16,
+      "end": 22.080000000000002,
+      "text": " And you will be able to use it in actual use"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 22.080000000000002,
+      "end": 23.48,
+      "text": " So let's start quickly"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 23.48,
+      "end": 26.48,
+      "text": " In the comment section, click the SIGMA BATCH OP"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 26.48,
+      "end": 27.84,
+      "text": " Let's roll the intro"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 30.0,
+      "end": 40.0,
+      "text": " So guys, as you can see, I have already made a computer screen"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 40.0,
+      "end": 44.0,
+      "text": " And if you haven't done any playlists yet, you can access it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 44.0,
+      "end": 49.0,
+      "text": " The other thing I want to tell you is that you will go to the GitHub.com slash code"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 49.0,
+      "end": 53.0,
+      "text": " And you will get the Github repo of the SIGMA webda course"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 53.0,
+      "end": 58.0,
+      "text": " I have made all the videos of this folder and made a commit to it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 58.0,
+      "end": 61.0,
+      "text": " You will get access from the source code"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 61.0,
+      "end": 63.0,
+      "text": " You can find it in the description"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 63.0,
+      "end": 66.0,
+      "text": " I will put it in the description below"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 66.0,
+      "end": 69.0,
+      "text": " Now we will make a basic website today"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 69.0,
+      "end": 71.0,
+      "text": " But it will be very important for us"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 71.0,
+      "end": 73.0,
+      "text": " Because it will be our first useful website"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 73.0,
+      "end": 79.0,
+      "text": " So I will not take time to make a new folder in this folder"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 79.0,
+      "end": 82.0,
+      "text": " And I will put it in the video folder because it is our fourth video"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " I will make it from the video folder"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 84.0,
+      "end": 88.0,
+      "text": " I will click on the open with code to open the folder in the VSC code"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 88.0,
+      "end": 91.0,
+      "text": " I will do this later, which we will always do"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 91.0,
+      "end": 98.0,
+      "text": " Index.html, Main.css or Style.css and with that, script.js"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " We usually make these three files"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " If I write CSS, I will write here and write script"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 102.0,
+      "end": 106.0,
+      "text": " But for now, I will write some things here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " I will write in the document"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " My bookmarks"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 110.0,
+      "end": 113.0,
+      "text": " I will write the code in the description"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 113.0,
+      "end": 116.0,
+      "text": " I will write all the titles"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 116.0,
+      "end": 119.0,
+      "text": " What is H1?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 119.0,
+      "end": 122.0,
+      "text": " You can write it in the web page"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " We talked about basic structure"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " We said that it is HTML"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 126.0,
+      "end": 127.0,
+      "text": " HTML Lang is equal to EN"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 127.0,
+      "end": 129.0,
+      "text": " It is the value of the attribute of the language"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 129.0,
+      "end": 131.0,
+      "text": " In English, this is the content"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 131.0,
+      "end": 133.0,
+      "text": " This is the search engine"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 133.0,
+      "end": 136.0,
+      "text": " If any of the link of this web page is in the description"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 136.0,
+      "end": 140.0,
+      "text": " You can parse the web page from the search engine"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 140.0,
+      "end": 144.0,
+      "text": " You can also find out that your web page is in English"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 144.0,
+      "end": 150.0,
+      "text": " Here is the header, which is the metadata, which is the title, which is the link of CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " It is the information of the body"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 152.0,
+      "end": 156.0,
+      "text": " Now, it is the tag to put the body in the header"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " I will write in the description box"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 158.0,
+      "end": 162.0,
+      "text": " If I write in the description box, we will write H1 tags"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " If I want to live here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " I will click here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " Then I will browser it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " I will show you how to use my bookmarks"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " Now, why should I use H1 in my bookmark?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " I didn't write directly in my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " Because I will tell you the browser"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 176.0,
+      "end": 178.0,
+      "text": " This is my first heading"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 178.0,
+      "end": 180.0,
+      "text": " Now, I will use H2"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " I will use H2 in my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " I will use H2 in my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 184.0,
+      "end": 186.0,
+      "text": " I will use H2 in my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 186.0,
+      "end": 188.0,
+      "text": " I will use H2 in my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 188.0,
+      "end": 192.0,
+      "text": " If you have used Microsoft Word, you will know what H1H2 is"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " I will tell you the main level of the writing"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 194.0,
+      "end": 198.0,
+      "text": " And the second level of the writing is H2"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " I mean, I will use the main bookmarks"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " And I will use the main bookmarks"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 202.0,
+      "end": 212.0,
+      "text": " I will use it in the box"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 212.0,
+      "end": 216.0,
+      "text": " I will use the main bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " But, not on screen"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 218.0,
+      "end": 223.0,
+      "text": " If you want to know that you press Alt, then click on the button where you will be able to use it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 223.0,
+      "end": 226.0,
+      "text": " As you know, I will click on the right side and then just click on the right side."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 226.0,
+      "end": 230.0,
+      "text": " But click on Alt, then you will be able to use it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 230.0,
+      "end": 233.0,
+      "text": " As you know, I want to use all the bookmarks in the code."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 233.0,
+      "end": 235.0,
+      "text": " So, I want to use my bookmarks dash code."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 235.0,
+      "end": 238.0,
+      "text": " I can write something like this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 238.0,
+      "end": 244.0,
+      "text": " I have not written this, then click on Alt, then click on Alt, then click on Alt, then I will get multiple cut sets."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 244.0,
+      "end": 247.0,
+      "text": " I will type whatever I want, I will get multiple cut sets."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 247.0,
+      "end": 250.0,
+      "text": " I will type whatever I want, I will get it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 250.0,
+      "end": 252.0,
+      "text": " Let me like it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 252.0,
+      "end": 258.0,
+      "text": " So, I will remove some of these things here, and you will see that this is my main heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 258.0,
+      "end": 259.0,
+      "text": " This is my H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 259.0,
+      "end": 261.0,
+      "text": " This is my H1H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 261.0,
+      "end": 262.0,
+      "text": " We have H6th heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 262.0,
+      "end": 264.0,
+      "text": " You can say that you have given the main heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " You have given the main heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 266.0,
+      "end": 268.0,
+      "text": " Then you have to give any heading after that."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " And so on."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 270.0,
+      "end": 271.0,
+      "text": " You have to give a lot of subheadings."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 271.0,
+      "end": 273.0,
+      "text": " You can give the H6th heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 273.0,
+      "end": 275.0,
+      "text": " H6th is more than enough."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 275.0,
+      "end": 276.0,
+      "text": " You can use H7th in HTML."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 276.0,
+      "end": 279.0,
+      "text": " You will never have to give the H7th heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 279.0,
+      "end": 281.0,
+      "text": " You will never have to give the H7th heading."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 281.0,
+      "end": 284.0,
+      "text": " And if you have given the H6th heading, you can use it repeatedly."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 284.0,
+      "end": 288.0,
+      "text": " Because it is so small that you will have to give a small amount of H6th."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 288.0,
+      "end": 290.0,
+      "text": " So, you will have to give a small amount of H6th."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 290.0,
+      "end": 293.0,
+      "text": " Now, I will do Alt shift down."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 293.0,
+      "end": 294.0,
+      "text": " I will replicate it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 294.0,
+      "end": 296.0,
+      "text": " And I will click Alt, then I will type Alt."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 296.0,
+      "end": 298.0,
+      "text": " These are all the short cuts."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 298.0,
+      "end": 300.0,
+      "text": " So that you guys have a lot of productivity."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 300.0,
+      "end": 302.0,
+      "text": " Now, I have put two cut sets here and here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 302.0,
+      "end": 308.0,
+      "text": " I will type Backspace, then I will type Alt, then I will type Alt, then I will type H4."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 308.0,
+      "end": 312.0,
+      "text": " And I will type H5 here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 312.0,
+      "end": 317.0,
+      "text": " Now I will type H6th here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 317.0,
+      "end": 318.0,
+      "text": " So, H6th is the same."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 318.0,
+      "end": 320.0,
+      "text": " Now, I will write here using H1."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 320.0,
+      "end": 321.0,
+      "text": " So that you guys know."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 321.0,
+      "end": 323.0,
+      "text": " I will write here using."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 323.0,
+      "end": 326.0,
+      "text": " I will type Space, I will type H."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 326.0,
+      "end": 331.0,
+      "text": " And now, I will type H2, 3, 4, 5, 6."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 331.0,
+      "end": 333.0,
+      "text": " And you see something like this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 333.0,
+      "end": 335.0,
+      "text": " So, you will know that I have done H1 like this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 335.0,
+      "end": 336.0,
+      "text": " It is H2 like this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 336.0,
+      "end": 339.0,
+      "text": " It is H3, it is H4, it is H5, it is H6."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 339.0,
+      "end": 341.0,
+      "text": " And what is the small amount of H6th?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 341.0,
+      "end": 343.0,
+      "text": " This will end in a short time."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 343.0,
+      "end": 345.0,
+      "text": " So, H6 is more than enough."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 345.0,
+      "end": 348.0,
+      "text": " So, I will show you a practical demonstration."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 348.0,
+      "end": 350.0,
+      "text": " I have told you that my HTML tutorial is here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 350.0,
+      "end": 352.0,
+      "text": " I have given the main adding, HTML introduction."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 352.0,
+      "end": 354.0,
+      "text": " Then I have given you the word HTML."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 354.0,
+      "end": 356.0,
+      "text": " Then I have given you the features of HTML."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 356.0,
+      "end": 358.0,
+      "text": " I have given it from H1, this is from H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 358.0,
+      "end": 361.0,
+      "text": " I have given it from H3, and it is from H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 361.0,
+      "end": 362.0,
+      "text": " I have given it from H3, and it is from H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 362.0,
+      "end": 366.0,
+      "text": " Here, Y in the term, hypertext and markup language, it is heading to."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 366.0,
+      "end": 369.0,
+      "text": " What is the main adding? HTML introduction."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 369.0,
+      "end": 371.0,
+      "text": " And then, all these are the settings."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 371.0,
+      "end": 374.0,
+      "text": " I have given you the word HTML, and I have used it from H3."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 374.0,
+      "end": 377.0,
+      "text": " Then, I have come to H2, because it was from H2."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 377.0,
+      "end": 382.0,
+      "text": " So, the H1, H1, H2, H4, H5, H6, is the most important."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 382.0,
+      "end": 384.0,
+      "text": " Okay, I hope you guys understood."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 384.0,
+      "end": 387.0,
+      "text": " Many people are commenting, you are starting very slow."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 387.0,
+      "end": 390.0,
+      "text": " So, let me make this course as a beginner course."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 390.0,
+      "end": 394.0,
+      "text": " When I am telling you guys in HTML, you guys have already said something."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 394.0,
+      "end": 396.0,
+      "text": " I will tell you some CSS in the final."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 396.0,
+      "end": 397.0,
+      "text": " This is also coming."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 397.0,
+      "end": 399.0,
+      "text": " I will come up here to talk to you about JavaScript."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 399.0,
+      "end": 401.0,
+      "text": " I will come up here a little bit."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 401.0,
+      "end": 403.0,
+      "text": " Then I will come up with a bootstrap."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 403.0,
+      "end": 405.0,
+      "text": " The code will be a little bit missing."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 405.0,
+      "end": 406.0,
+      "text": " I am reacting."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 406.0,
+      "end": 407.0,
+      "text": " What is happening?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 407.0,
+      "end": 409.0,
+      "text": " Then, it says Malan node."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 409.0,
+      "end": 411.0,
+      "text": " Then, after that, I will come to get the things from Malan."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 411.0,
+      "end": 412.0,
+      "text": " Malan node, then, Malan node, then I will come to get the things from Malan."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 412.0,
+      "end": 413.0,
+      "text": " Malan node, then, Malan node."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " Then, after that, it says,"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 415.0,
+      "end": 419.4,
+      "text": " I told you that I will raise a bar like anything that is what I meant"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 419.4,
+      "end": 423.8,
+      "text": " When we react, we will do whatever we want to do"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 423.8,
+      "end": 427.8,
+      "text": " Then I will ask them to do whatever they want"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 427.8,
+      "end": 430.8,
+      "text": " So don't talk about the level, it will be difficult to get the level"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 430.8,
+      "end": 432.2,
+      "text": " So this is the heading summary"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 432.2,
+      "end": 434.4,
+      "text": " The settings I want to keep like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 434.4,
+      "end": 436.4,
+      "text": " Now if we want to write a paragraph"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 436.4,
+      "end": 438.4,
+      "text": " You can use the P tag"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 438.4,
+      "end": 440.6,
+      "text": " P enter the paragraph"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 440.6,
+      "end": 442.6,
+      "text": " I will tell you a short track"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 442.6,
+      "end": 446.0,
+      "text": " If you want to apply a dummy on the image"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 446.0,
+      "end": 449.0,
+      "text": " You can write a law ram here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 449.0,
+      "end": 450.0,
+      "text": " I wrote a law ram 23"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 450.0,
+      "end": 452.0,
+      "text": " And here you can see the M at abbreviation"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 452.0,
+      "end": 453.0,
+      "text": " This is law ram 23"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 453.0,
+      "end": 454.0,
+      "text": " I will give 23 words"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 454.0,
+      "end": 457.0,
+      "text": " You can trap the word on the view"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 457.0,
+      "end": 459.20000000000005,
+      "text": " So you won't get the horizontal straw bar"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 459.20000000000005,
+      "end": 460.40000000000003,
+      "text": " So you can trap the view"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 460.40000000000003,
+      "end": 463.0,
+      "text": " Now you see the law ram epsilon dollar set"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 463.0,
+      "end": 465.0,
+      "text": " Here this is a dummy text"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 465.0,
+      "end": 467.0,
+      "text": " Why do we want dummy text?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " That is why we want template"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 469.0,
+      "end": 472.0,
+      "text": " And we have to fill that template"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 472.0,
+      "end": 474.0,
+      "text": " So you can make a website"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 474.0,
+      "end": 476.4,
+      "text": " Which looks like the OEO rooms"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 476.4,
+      "end": 479.4,
+      "text": " Now OEO become a member"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 479.4,
+      "end": 480.4,
+      "text": " OEO for business"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 480.4,
+      "end": 482.4,
+      "text": " I don't know what to write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 482.4,
+      "end": 483.8,
+      "text": " I wrote a law ram here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 483.8,
+      "end": 485.2,
+      "text": " Now I want to write something here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 485.2,
+      "end": 487.0,
+      "text": " I wrote a law ram 7"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 487.0,
+      "end": 488.0,
+      "text": " I will give the law ram 7"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 488.0,
+      "end": 490.0,
+      "text": " I will give the OEO people"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 490.0,
+      "end": 491.2,
+      "text": " And write it like that"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 491.2,
+      "end": 494.4,
+      "text": " So you can use it in filling the placeholder"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 494.4,
+      "end": 496.8,
+      "text": " My plan is that we will also make popular websites"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 496.8,
+      "end": 499.8,
+      "text": " So that you know what to do"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 499.8,
+      "end": 501.2,
+      "text": " This is also a popular website"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 501.2,
+      "end": 503.2,
+      "text": " If you are interested in services"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 503.2,
+      "end": 505.2,
+      "text": " You must write in the comment section"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 505.2,
+      "end": 507.2,
+      "text": " Now we will see more things"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 507.2,
+      "end": 509.2,
+      "text": " Like you have a paragraph"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 509.2,
+      "end": 511.2,
+      "text": " You have to style it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 511.2,
+      "end": 514.2,
+      "text": " And all these things are made through CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 514.2,
+      "end": 515.2,
+      "text": " Now in paragraph"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 515.2,
+      "end": 517.2,
+      "text": " You can see that I wrote a law ram 23"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 517.2,
+      "end": 518.2,
+      "text": " So I will give you a text"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 518.2,
+      "end": 520.2,
+      "text": " I will give you P enter"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 520.2,
+      "end": 521.2,
+      "text": " If you know I will write a law ram 10"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 521.2,
+      "end": 523.2,
+      "text": " So I will give you 10 words"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 523.2,
+      "end": 524.7,
+      "text": " And if I write a law ram 100"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 524.7,
+      "end": 526.7,
+      "text": " It will be much more expensive"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 526.7,
+      "end": 528.2,
+      "text": " So I can do that"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 528.2,
+      "end": 530.2,
+      "text": " This law ram value is very good"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 530.2,
+      "end": 533.2,
+      "text": " And whenever we will make popular websites"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 533.2,
+      "end": 536.2,
+      "text": " I will make Amazon.inqlone"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 536.2,
+      "end": 539.2,
+      "text": " So I will write something here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 539.2,
+      "end": 542.2,
+      "text": " Now I will write 3 words here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 542.2,
+      "end": 544.2,
+      "text": " So I will write a law ram 3"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 544.2,
+      "end": 546.2,
+      "text": " I will not think about make-up products"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 546.2,
+      "end": 547.2,
+      "text": " I will write a law ram 4"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 547.2,
+      "end": 548.2,
+      "text": " I will write a law ram 3"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 548.2,
+      "end": 549.2,
+      "text": " And I will write a law ram 2"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 549.2,
+      "end": 551.2,
+      "text": " And I will make it ready"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 551.2,
+      "end": 553.2,
+      "text": " And then everything will be in my database"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 553.2,
+      "end": 557.2,
+      "text": " And I can bring it from different types of things"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 557.2,
+      "end": 558.2,
+      "text": " Many people asked"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 558.2,
+      "end": 560.2,
+      "text": " Do you know what this course will be?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 560.2,
+      "end": 561.2,
+      "text": " The answer is yes"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 561.2,
+      "end": 562.2,
+      "text": " This course will be ready"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 562.2,
+      "end": 563.2,
+      "text": " You are absolutely in it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 563.2,
+      "end": 564.2,
+      "text": " I will make it like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 564.2,
+      "end": 565.2,
+      "text": " You will make it like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 565.2,
+      "end": 566.2,
+      "text": " You will make it like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 566.2,
+      "end": 567.2,
+      "text": " You will make it like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 567.2,
+      "end": 568.2,
+      "text": " You will make it like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 568.2,
+      "end": 569.2,
+      "text": " Now let's talk about"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 569.2,
+      "end": 571.2,
+      "text": " What are the attributes in HTML?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 571.2,
+      "end": 572.2,
+      "text": " These attributes are in HTML"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 572.2,
+      "end": 574.2,
+      "text": " As I used HTML tag"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 574.2,
+      "end": 575.2,
+      "text": " Lang is equal to this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 575.2,
+      "end": 576.2,
+      "text": " Lang is an attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 576.2,
+      "end": 577.2,
+      "text": " In the body"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 577.2,
+      "end": 579.2,
+      "text": " We did not use attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 579.2,
+      "end": 580.2,
+      "text": " In H1 we did not use attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 580.2,
+      "end": 582.2,
+      "text": " In P we did not use attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 582.2,
+      "end": 584.2,
+      "text": " But I can use P make-style attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 584.2,
+      "end": 587.2,
+      "text": " Which is also called inline CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 587.2,
+      "end": 589.2,
+      "text": " I will red it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 589.2,
+      "end": 591.2,
+      "text": " Like this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 591.2,
+      "end": 593.2,
+      "text": " The background color is red"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 593.2,
+      "end": 595.2,
+      "text": " It is also called inline CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 595.2,
+      "end": 597.2,
+      "text": " Through style attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 597.2,
+      "end": 599.2,
+      "text": " If you add CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 599.2,
+      "end": 601.2,
+      "text": " First we will add CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 601.2,
+      "end": 604.2,
+      "text": " Then you will get background red"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 604.2,
+      "end": 605.2,
+      "text": " I will show you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 605.2,
+      "end": 606.2,
+      "text": " You got this red red background"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 606.2,
+      "end": 607.2,
+      "text": " I will tell you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 607.2,
+      "end": 608.2,
+      "text": " I will tell you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 608.2,
+      "end": 609.2,
+      "text": " I will tell you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 609.2,
+      "end": 611.2,
+      "text": " This color is good"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 611.2,
+      "end": 613.2,
+      "text": " So I can also add inline"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 613.2,
+      "end": 615.2,
+      "text": " But when you make the website"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 615.2,
+      "end": 617.2,
+      "text": " We use inline style"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 617.2,
+      "end": 619.2,
+      "text": " Because maintainability is reduced"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 619.2,
+      "end": 621.2,
+      "text": " Reusability is reduced"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 621.2,
+      "end": 623.2,
+      "text": " So we want to shift from small to small bundle"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 623.2,
+      "end": 626.2,
+      "text": " And the website is more optimized"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 626.2,
+      "end": 628.2,
+      "text": " So we avoid all these things"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 628.2,
+      "end": 630.2,
+      "text": " But inline CSS there is a style tag"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 630.2,
+      "end": 632.2,
+      "text": " But here there is a style attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 632.2,
+      "end": 633.2,
+      "text": " P is a tag"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 633.2,
+      "end": 635.2,
+      "text": " P tag is an attribute style"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 635.2,
+      "end": 637.2,
+      "text": " Through which we can style this element"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 637.2,
+      "end": 639.2,
+      "text": " We will read more about attributes"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 639.2,
+      "end": 641.2,
+      "text": " Attributes are basically"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 641.2,
+      "end": 643.2,
+      "text": " An element can enhance functionality"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 643.2,
+      "end": 647.2,
+      "text": " So we will give you a style"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 647.2,
+      "end": 649.2,
+      "text": " Which was the background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 649.2,
+      "end": 651.2,
+      "text": " To give this background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 651.2,
+      "end": 653.2,
+      "text": " We used the style attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 653.2,
+      "end": 655.2,
+      "text": " To give properties"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 655.2,
+      "end": 657.2,
+      "text": " We use the tag"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 657.2,
+      "end": 659.2,
+      "text": " To give this element"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 659.2,
+      "end": 660.2,
+      "text": " Attributes"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 660.2,
+      "end": 662.2,
+      "text": " Like if we talk about"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 662.2,
+      "end": 664.2,
+      "text": " The link of CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 664.2,
+      "end": 666.2,
+      "text": " The link is relic attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 666.2,
+      "end": 668.2,
+      "text": " It is an href attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 668.2,
+      "end": 670.2,
+      "text": " So what we can do with this attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 670.2,
+      "end": 672.2,
+      "text": " We can add style sheet"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 672.2,
+      "end": 674.2,
+      "text": " We can add background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 674.2,
+      "end": 676.2,
+      "text": " Background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 676.2,
+      "end": 678.2,
+      "text": " I am here on body"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 678.2,
+      "end": 680.2,
+      "text": " What we need in body is background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 680.2,
+      "end": 682.2,
+      "text": " And don't take tension"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 682.2,
+      "end": 684.2,
+      "text": " How is this going to be?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 684.2,
+      "end": 686.2,
+      "text": " CSS will be told"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 686.2,
+      "end": 688.2,
+      "text": " But I am telling you that I will do hot pink"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 688.2,
+      "end": 690.2,
+      "text": " Vs code"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 690.2,
+      "end": 692.2,
+      "text": " Listen to one more functionality"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 692.2,
+      "end": 694.2,
+      "text": " This is an in-jagging"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 694.2,
+      "end": 696.2,
+      "text": " Over-caromouse"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 696.2,
+      "end": 698.2,
+      "text": " And you can choose the color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 698.2,
+      "end": 700.2,
+      "text": " I will leave it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 700.2,
+      "end": 702.2,
+      "text": " And if you see"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 702.2,
+      "end": 704.2,
+      "text": " The background color of my body is here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 704.2,
+      "end": 706.2,
+      "text": " How to write ninja technique"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 706.2,
+      "end": 708.2,
+      "text": " I am writing ninja technique"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 708.2,
+      "end": 710.2,
+      "text": " Now we have come back in index.html"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 710.2,
+      "end": 712.2,
+      "text": " I want to hit it"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 712.2,
+      "end": 714.2,
+      "text": " I will comment"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 714.2,
+      "end": 716.2,
+      "text": " This style sheet will not be there"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 716.2,
+      "end": 718.2,
+      "text": " Which is very natural"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 718.2,
+      "end": 720.2,
+      "text": " This background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 720.2,
+      "end": 722.2,
+      "text": " Is from the online CSS"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 722.2,
+      "end": 724.2,
+      "text": " Which is very natural"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 724.2,
+      "end": 726.2,
+      "text": " I have made this style"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 726.2,
+      "end": 728.2,
+      "text": " Because of this background color"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 728.2,
+      "end": 730.2,
+      "text": " Now we are going to make bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 730.2,
+      "end": 732.2,
+      "text": " It is going to be a bookmark manager"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 732.2,
+      "end": 734.2,
+      "text": " Bookmark manager.html"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 734.2,
+      "end": 736.2,
+      "text": " And I am making this style"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 736.2,
+      "end": 738.2,
+      "text": " Because I am telling you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 738.2,
+      "end": 740.2,
+      "text": " In different settings"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 740.2,
+      "end": 742.2,
+      "text": " I am going to make a useful bookmark manager"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 742.2,
+      "end": 744.2,
+      "text": " I will show you"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 744.2,
+      "end": 746.2,
+      "text": " Bookmark manager"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 746.2,
+      "end": 748.2,
+      "text": " Now you guys are saying"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 748.2,
+      "end": 750.2,
+      "text": " Why are you making bookmark manager in chrome"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 750.2,
+      "end": 752.2,
+      "text": " This is our hand"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 752.2,
+      "end": 754.2,
+      "text": " This is our child"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 754.2,
+      "end": 756.2,
+      "text": " You will be loved by this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 756.2,
+      "end": 758.2,
+      "text": " Because this is your own"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 758.2,
+      "end": 760.2,
+      "text": " You have made a software"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 760.2,
+      "end": 762.2,
+      "text": " You have made a software"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 762.2,
+      "end": 764.2,
+      "text": " You have made a software"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 764.2,
+      "end": 766.2,
+      "text": " You can see"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 766.2,
+      "end": 768.2,
+      "text": " I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 768.2,
+      "end": 770.2,
+      "text": " And write my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 770.2,
+      "end": 772.2,
+      "text": " I will write my bookmark"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 772.2,
+      "end": 774.2,
+      "text": " Now I will write H2"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 774.2,
+      "end": 776.2,
+      "text": " I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 776.2,
+      "end": 778.2,
+      "text": " And I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 778.2,
+      "end": 780.2,
+      "text": " I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 780.2,
+      "end": 782.2,
+      "text": " In fact, I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 782.2,
+      "end": 784.2,
+      "text": " I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 784.2,
+      "end": 786.2,
+      "text": " Secondary bookmarks"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 786.2,
+      "end": 788.2,
+      "text": " I will write here"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 788.2,
+      "end": 790.2,
+      "text": " In paragraph"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 790.2,
+      "end": 792.2,
+      "text": " I will write Google"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 792.2,
+      "end": 794.2,
+      "text": " I will write this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 794.2,
+      "end": 796.2,
+      "text": " I will write this in the videos"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 796.2,
+      "end": 798.2,
+      "text": " How to use this list"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 798.2,
+      "end": 800.2,
+      "text": " Now you guys"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 800.2,
+      "end": 802.2,
+      "text": " Google"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 802.2,
+      "end": 804.2,
+      "text": " Open Google"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 804.2,
+      "end": 806.2,
+      "text": " And I will use anchor"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 806.2,
+      "end": 808.2,
+      "text": " I will enter this"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 808.2,
+      "end": 816.2,
+      "text": " I will begin"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 816.2,
+      "end": 820.2,
+      "text": " 1 Mandatory Attribute"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 820.2,
+      "end": 823.2,
+      "text": " i will write HRF"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 823.2,
+      "end": 826.2,
+      "text": " flddvold.google.com"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 826.2,
+      "end": 828.2,
+      "text": " You can check"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 828.2,
+      "end": 830.2,
+      "text": " This was opened google"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 830.2,
+      "end": 834.2,
+      "text": " First we will put anchor"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 834.2,
+      "end": 845.2,
+      "text": " You can see that as I am a bookmark manager in my bookmark, you can see the bookmark from here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 845.2,
+      "end": 848.2,
+      "text": " I will click on it and you can see it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 848.2,
+      "end": 851.2,
+      "text": " When I clicked on it, it was blue."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 851.2,
+      "end": 853.2,
+      "text": " I have visited it and changed it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 853.2,
+      "end": 855.2,
+      "text": " It changes when you visit it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 855.2,
+      "end": 857.2,
+      "text": " I have already converted it into a visited link."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 857.2,
+      "end": 860.2,
+      "text": " I know that I have visited it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 860.2,
+      "end": 862.2,
+      "text": " I will tell you one more thing."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 862.2,
+      "end": 867.2,
+      "text": " If you want to open a new tab, click on it and it is opening in the same tab."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 867.2,
+      "end": 870.2,
+      "text": " If you want to open a new tab, you can open it in two ways."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 870.2,
+      "end": 875.2,
+      "text": " You can click on the mouse wheel."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 875.2,
+      "end": 881.2,
+      "text": " If you want to open a new tab, you can use an attribute."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 881.2,
+      "end": 886.2,
+      "text": " You can write here that target is equal to underscore blank."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 886.2,
+      "end": 890.2,
+      "text": " You can use two intermarked menus."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 890.2,
+      "end": 893.2,
+      "text": " You can write notes and other settings."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 893.2,
+      "end": 896.2,
+      "text": " You can use a quality test."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 896.2,
+      "end": 900.2,
+      "text": " You can use a quality test and other settings."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 900.2,
+      "end": 904.2,
+      "text": " You can type a new target is equal to underscore blank."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 904.2,
+      "end": 907.2,
+      "text": " You can click on it and it is opening in the same tab."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 907.2,
+      "end": 910.2,
+      "text": " I will click on mouse wheel."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 910.2,
+      "end": 913.2,
+      "text": " I will click on it and it is opening in the same tab."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 913.2,
+      "end": 917.2,
+      "text": " I have written a simple open google."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 917.2,
+      "end": 923.2,
+      "text": " You can use it in your own custom website."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 923.2,
+      "end": 925.2,
+      "text": " You can use it in your own custom website."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 925.2,
+      "end": 931.2,
+      "text": " I will write open facebook and you can see it in www.facebook.com."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 931.2,
+      "end": 934.2,
+      "text": " I will write it in the same tab."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 934.2,
+      "end": 937.2,
+      "text": " We will write it in the same tab."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 937.2,
+      "end": 941.2,
+      "text": " Let's see what kind of website we will write."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 941.2,
+      "end": 945.2,
+      "text": " You can see that it is not here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 945.2,
+      "end": 949.2,
+      "text": " You can see that it is not here."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 949.2,
+      "end": 953.2,
+      "text": " You can put it in your own paragraph."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 953.2,
+      "end": 956.2,
+      "text": " I am saying it in dirty way."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 956.2,
+      "end": 959.2,
+      "text": " I will close it in paragraph."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 959.2,
+      "end": 963.2,
+      "text": " I will shift the right arrow and control the X."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 963.2,
+      "end": 967.2,
+      "text": " I will go to all the cutters end."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 967.2,
+      "end": 971.2,
+      "text": " I will control the X."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 971.2,
+      "end": 975.2,
+      "text": " I have shot a lot and you will see many people."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 975.2,
+      "end": 979.2,
+      "text": " I have used the VSCode functionality."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 979.2,
+      "end": 983.2,
+      "text": " I have used multiple cutters."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 983.2,
+      "end": 985.2,
+      "text": " I have used multiple cutters."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 985.2,
+      "end": 989.2,
+      "text": " This is not a good way to use the paragraph."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 989.2,
+      "end": 993.2,
+      "text": " We will not use the paragraph."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 993.2,
+      "end": 995.2,
+      "text": " We will work on it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 995.2,
+      "end": 997.2,
+      "text": " We have not visited the page yet."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 997.2,
+      "end": 999.2,
+      "text": " We have visited Facebook."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 999.2,
+      "end": 1001.2,
+      "text": " We have visited Kora."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1001.2,
+      "end": 1003.2,
+      "text": " This is your primary bookmark."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1003.2,
+      "end": 1005.2,
+      "text": " Which of your second bookmarks are you?"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1005.2,
+      "end": 1007.2,
+      "text": " We are the second bookmarks."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1007.2,
+      "end": 1009.2,
+      "text": " You can see the second bookmark."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1009.2,
+      "end": 1013.2,
+      "text": " Follow VKPD.com."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1013.2,
+      "end": 1017.2,
+      "text": " We will write the stack overflow."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1017.2,
+      "end": 1021.2,
+      "text": " We will write the stack overflow."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1021.2,
+      "end": 1023.2,
+      "text": " You can see the second bookmarks."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1023.2,
+      "end": 1025.2,
+      "text": " press control file."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1029.2,
+      "end": 1031.2,
+      "text": " You will see the next step."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1031.2,
+      "end": 1041.2,
+      "text": " Press si\u0119ge."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1041.2,
+      "end": 1043.2,
+      "text": " We will talk about the details of the bookmark."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1045.2,
+      "end": 1047.2,
+      "text": " There is also the TIT ten."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1047.2,
+      "end": 1051.2,
+      "text": " Fearing the details."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1051.2,
+      "end": 1055.2,
+      "text": " You can use it as a bookmark manager."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1055.2,
+      "end": 1057.2,
+      "text": " You can use it in actual use."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1057.2,
+      "end": 1059.2,
+      "text": " If you save it in some way,"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1059.2,
+      "end": 1061.2,
+      "text": " like I have got this bookmark manager on RHD."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1061.2,
+      "end": 1064.2,
+      "text": " You can put it on your desktop if you want."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1064.2,
+      "end": 1067.2,
+      "text": " Whenever you open a website, you will simply double click."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1067.2,
+      "end": 1070.2,
+      "text": " If you open a VSCode,"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1070.2,
+      "end": 1073.2,
+      "text": " you will have to open right click, open open with open."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1073.2,
+      "end": 1075.2,
+      "text": " You will have to wrap the choose and app."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1075.2,
+      "end": 1077.2,
+      "text": " Then Google Chrome will always choose."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1077.2,
+      "end": 1079.2,
+      "text": " I will choose Google Chrome."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1080.2,
+      "end": 1083.2,
+      "text": " I will always double click on Google Chrome."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1083.2,
+      "end": 1085.2,
+      "text": " So this is our bookmark manager."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1085.2,
+      "end": 1087.2,
+      "text": " I hope you liked it."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1087.2,
+      "end": 1089.2,
+      "text": " I have request from you."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1089.2,
+      "end": 1091.2,
+      "text": " Today our four videos are complete."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1091.2,
+      "end": 1094.2,
+      "text": " If you want to share your videos with your friends."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1094.2,
+      "end": 1096.2,
+      "text": " I know you will share very little."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1096.2,
+      "end": 1097.2,
+      "text": " But if you will,"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1097.2,
+      "end": 1100.2,
+      "text": " then you are getting much more power."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1100.2,
+      "end": 1102.2,
+      "text": " And I will try to take more more courses."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1102.2,
+      "end": 1104.2,
+      "text": " Many people are asking me to do this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1104.2,
+      "end": 1106.2,
+      "text": " How to do this."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1106.2,
+      "end": 1111.92,
+      "text": " find the ways to make more money but the thing is that this course is the most important"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1111.92,
+      "end": 1113.92,
+      "text": " course of web development."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1113.92,
+      "end": 1118.2,
+      "text": " I will put everything in this and you can take less time to learn more."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1118.2,
+      "end": 1122.32,
+      "text": " I have been very late to get a lot of companies and asked them to launch a paid course."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1122.32,
+      "end": 1123.32,
+      "text": " Let us pay our flat."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1123.32,
+      "end": 1126.52,
+      "text": " I don't know but I have been late to get a lot of companies and they told me that they are"
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1126.52,
+      "end": 1128.32,
+      "text": " launching this as a paid course."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1128.32,
+      "end": 1130.32,
+      "text": " Why are you doing this? You will regret your decision."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1130.32,
+      "end": 1134.2,
+      "text": " But hopefully I will not regret my decision to make this course free."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1134.2,
+      "end": 1141.2,
+      "text": " I will teach you the way to make money and you will also learn the way to make money through web development."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1141.2,
+      "end": 1144.2,
+      "text": " With that said, I will put the description in the description box."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1144.2,
+      "end": 1147.2,
+      "text": " You can take this as a source code and you can take it from the repository."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1147.2,
+      "end": 1150.2,
+      "text": " Thank you so much for watching this video."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1150.2,
+      "end": 1152.2,
+      "text": " I will see you next time."
+    },
+    {
+      "number": "02",
+      "title": "Heading-Paragraphs-and-Links-Sigma-Web-Development-Course",
+      "start": 1164.2,
+      "end": 1171.2,
+      "text": " Bye."
+    }
+  ],
+  "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Like and share this video with your friends In this video, we will make a small project Which will be a bookmark website This bookmark website will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly In the comment section, click the SIGMA BATCH OP Let's roll the intro So guys, as you can see, I have already made a computer screen And if you haven't done any playlists yet, you can access it The other thing I want to tell you is that you will go to the GitHub.com slash code And you will get the Github repo of the SIGMA webda course I have made all the videos of this folder and made a commit to it You will get access from the source code You can find it in the description I will put it in the description below Now we will make a basic website today But it will be very important for us Because it will be our first useful website So I will not take time to make a new folder in this folder And I will put it in the video folder because it is our fourth video I will make it from the video folder I will click on the open with code to open the folder in the VSC code I will do this later, which we will always do Index.html, Main.css or Style.css and with that, script.js We usually make these three files If I write CSS, I will write here and write script But for now, I will write some things here I will write in the document My bookmarks I will write the code in the description I will write all the titles What is H1? You can write it in the web page We talked about basic structure We said that it is HTML HTML Lang is equal to EN It is the value of the attribute of the language In English, this is the content This is the search engine If any of the link of this web page is in the description You can parse the web page from the search engine You can also find out that your web page is in English Here is the header, which is the metadata, which is the title, which is the link of CSS It is the information of the body Now, it is the tag to put the body in the header I will write in the description box If I write in the description box, we will write H1 tags If I want to live here I will click here Then I will browser it I will show you how to use my bookmarks Now, why should I use H1 in my bookmark? I didn't write directly in my bookmark Because I will tell you the browser This is my first heading Now, I will use H2 I will use H2 in my bookmark I will use H2 in my bookmark I will use H2 in my bookmark I will use H2 in my bookmark If you have used Microsoft Word, you will know what H1H2 is I will tell you the main level of the writing And the second level of the writing is H2 I mean, I will use the main bookmarks And I will use the main bookmarks I will use it in the box I will use the main bookmark But, not on screen If you want to know that you press Alt, then click on the button where you will be able to use it. As you know, I will click on the right side and then just click on the right side. But click on Alt, then you will be able to use it. As you know, I want to use all the bookmarks in the code. So, I want to use my bookmarks dash code. I can write something like this. I have not written this, then click on Alt, then click on Alt, then click on Alt, then I will get multiple cut sets. I will type whatever I want, I will get multiple cut sets. I will type whatever I want, I will get it. Let me like it. So, I will remove some of these things here, and you will see that this is my main heading. This is my H2. This is my H1H2. We have H6th heading. You can say that you have given the main heading. You have given the main heading. Then you have to give any heading after that. And so on. You have to give a lot of subheadings. You can give the H6th heading. H6th is more than enough. You can use H7th in HTML. You will never have to give the H7th heading. You will never have to give the H7th heading. And if you have given the H6th heading, you can use it repeatedly. Because it is so small that you will have to give a small amount of H6th. So, you will have to give a small amount of H6th. Now, I will do Alt shift down. I will replicate it. And I will click Alt, then I will type Alt. These are all the short cuts. So that you guys have a lot of productivity. Now, I have put two cut sets here and here. I will type Backspace, then I will type Alt, then I will type Alt, then I will type H4. And I will type H5 here. Now I will type H6th here. So, H6th is the same. Now, I will write here using H1. So that you guys know. I will write here using. I will type Space, I will type H. And now, I will type H2, 3, 4, 5, 6. And you see something like this. So, you will know that I have done H1 like this. It is H2 like this. It is H3, it is H4, it is H5, it is H6. And what is the small amount of H6th? This will end in a short time. So, H6 is more than enough. So, I will show you a practical demonstration. I have told you that my HTML tutorial is here. I have given the main adding, HTML introduction. Then I have given you the word HTML. Then I have given you the features of HTML. I have given it from H1, this is from H2. I have given it from H3, and it is from H2. I have given it from H3, and it is from H2. Here, Y in the term, hypertext and markup language, it is heading to. What is the main adding? HTML introduction. And then, all these are the settings. I have given you the word HTML, and I have used it from H3. Then, I have come to H2, because it was from H2. So, the H1, H1, H2, H4, H5, H6, is the most important. Okay, I hope you guys understood. Many people are commenting, you are starting very slow. So, let me make this course as a beginner course. When I am telling you guys in HTML, you guys have already said something. I will tell you some CSS in the final. This is also coming. I will come up here to talk to you about JavaScript. I will come up here a little bit. Then I will come up with a bootstrap. The code will be a little bit missing. I am reacting. What is happening? Then, it says Malan node. Then, after that, I will come to get the things from Malan. Malan node, then, Malan node, then I will come to get the things from Malan. Malan node, then, Malan node. Then, after that, it says, I told you that I will raise a bar like anything that is what I meant When we react, we will do whatever we want to do Then I will ask them to do whatever they want So don't talk about the level, it will be difficult to get the level So this is the heading summary The settings I want to keep like this Now if we want to write a paragraph You can use the P tag P enter the paragraph I will tell you a short track If you want to apply a dummy on the image You can write a law ram here I wrote a law ram 23 And here you can see the M at abbreviation This is law ram 23 I will give 23 words You can trap the word on the view So you won't get the horizontal straw bar So you can trap the view Now you see the law ram epsilon dollar set Here this is a dummy text Why do we want dummy text? That is why we want template And we have to fill that template So you can make a website Which looks like the OEO rooms Now OEO become a member OEO for business I don't know what to write here I wrote a law ram here Now I want to write something here I wrote a law ram 7 I will give the law ram 7 I will give the OEO people And write it like that So you can use it in filling the placeholder My plan is that we will also make popular websites So that you know what to do This is also a popular website If you are interested in services You must write in the comment section Now we will see more things Like you have a paragraph You have to style it And all these things are made through CSS Now in paragraph You can see that I wrote a law ram 23 So I will give you a text I will give you P enter If you know I will write a law ram 10 So I will give you 10 words And if I write a law ram 100 It will be much more expensive So I can do that This law ram value is very good And whenever we will make popular websites I will make Amazon.inqlone So I will write something here Now I will write 3 words here So I will write a law ram 3 I will not think about make-up products I will write a law ram 4 I will write a law ram 3 And I will write a law ram 2 And I will make it ready And then everything will be in my database And I can bring it from different types of things Many people asked Do you know what this course will be? The answer is yes This course will be ready You are absolutely in it I will make it like this You will make it like this You will make it like this You will make it like this You will make it like this Now let's talk about What are the attributes in HTML? These attributes are in HTML As I used HTML tag Lang is equal to this Lang is an attribute In the body We did not use attribute In H1 we did not use attribute In P we did not use attribute But I can use P make-style attribute Which is also called inline CSS I will red it Like this The background color is red It is also called inline CSS Through style attribute If you add CSS First we will add CSS Then you will get background red I will show you You got this red red background I will tell you I will tell you I will tell you This color is good So I can also add inline But when you make the website We use inline style Because maintainability is reduced Reusability is reduced So we want to shift from small to small bundle And the website is more optimized So we avoid all these things But inline CSS there is a style tag But here there is a style attribute P is a tag P tag is an attribute style Through which we can style this element We will read more about attributes Attributes are basically An element can enhance functionality So we will give you a style Which was the background color To give this background color We used the style attribute To give properties We use the tag To give this element Attributes Like if we talk about The link of CSS The link is relic attribute It is an href attribute So what we can do with this attribute We can add style sheet We can add background color Background color I am here on body What we need in body is background color And don't take tension How is this going to be? CSS will be told But I am telling you that I will do hot pink Vs code Listen to one more functionality This is an in-jagging Over-caromouse And you can choose the color I will leave it And if you see The background color of my body is here How to write ninja technique I am writing ninja technique Now we have come back in index.html I want to hit it I will comment This style sheet will not be there Which is very natural This background color Is from the online CSS Which is very natural I have made this style Because of this background color Now we are going to make bookmark It is going to be a bookmark manager Bookmark manager.html And I am making this style Because I am telling you In different settings I am going to make a useful bookmark manager I will show you Bookmark manager Now you guys are saying Why are you making bookmark manager in chrome This is our hand This is our child You will be loved by this Because this is your own You have made a software You have made a software You have made a software You can see I will write here And write my bookmark I will write my bookmark Now I will write H2 I will write here And I will write here I will write here In fact, I will write here I will write here Secondary bookmarks I will write here In paragraph I will write Google I will write this I will write this in the videos How to use this list Now you guys Google Open Google And I will use anchor I will enter this I will begin 1 Mandatory Attribute i will write HRF flddvold.google.com You can check This was opened google First we will put anchor You can see that as I am a bookmark manager in my bookmark, you can see the bookmark from here. I will click on it and you can see it. When I clicked on it, it was blue. I have visited it and changed it. It changes when you visit it. I have already converted it into a visited link. I know that I have visited it. I will tell you one more thing. If you want to open a new tab, click on it and it is opening in the same tab. If you want to open a new tab, you can open it in two ways. You can click on the mouse wheel. If you want to open a new tab, you can use an attribute. You can write here that target is equal to underscore blank. You can use two intermarked menus. You can write notes and other settings. You can use a quality test. You can use a quality test and other settings. You can type a new target is equal to underscore blank. You can click on it and it is opening in the same tab. I will click on mouse wheel. I will click on it and it is opening in the same tab. I have written a simple open google. You can use it in your own custom website. You can use it in your own custom website. I will write open facebook and you can see it in www.facebook.com. I will write it in the same tab. We will write it in the same tab. Let's see what kind of website we will write. You can see that it is not here. You can see that it is not here. You can put it in your own paragraph. I am saying it in dirty way. I will close it in paragraph. I will shift the right arrow and control the X. I will go to all the cutters end. I will control the X. I have shot a lot and you will see many people. I have used the VSCode functionality. I have used multiple cutters. I have used multiple cutters. This is not a good way to use the paragraph. We will not use the paragraph. We will work on it. We have not visited the page yet. We have visited Facebook. We have visited Kora. This is your primary bookmark. Which of your second bookmarks are you? We are the second bookmarks. You can see the second bookmark. Follow VKPD.com. We will write the stack overflow. We will write the stack overflow. You can see the second bookmarks. press control file. You will see the next step. Press si\u0119ge. We will talk about the details of the bookmark. There is also the TIT ten. Fearing the details. You can use it as a bookmark manager. You can use it in actual use. If you save it in some way, like I have got this bookmark manager on RHD. You can put it on your desktop if you want. Whenever you open a website, you will simply double click. If you open a VSCode, you will have to open right click, open open with open. You will have to wrap the choose and app. Then Google Chrome will always choose. I will choose Google Chrome. I will always double click on Google Chrome. So this is our bookmark manager. I hope you liked it. I have request from you. Today our four videos are complete. If you want to share your videos with your friends. I know you will share very little. But if you will, then you are getting much more power. And I will try to take more more courses. Many people are asking me to do this. How to do this. find the ways to make more money but the thing is that this course is the most important course of web development. I will put everything in this and you can take less time to learn more. I have been very late to get a lot of companies and asked them to launch a paid course. Let us pay our flat. I don't know but I have been late to get a lot of companies and they told me that they are launching this as a paid course. Why are you doing this? You will regret your decision. But hopefully I will not regret my decision to make this course free. I will teach you the way to make money and you will also learn the way to make money through web development. With that said, I will put the description in the description box. You can take this as a source code and you can take it from the repository. Thank you so much for watching this video. I will see you next time. Bye."
+}
