@@ -1,4 +1,6 @@
 # RAG-Based-AI-Teaching-Assistant
+The RAG-Based AI Teaching Assistant is an intelligent system that allows users to query and interact with their own educational video content using advanced Retrieval-Augmented Generation (RAG) techniques. It processes videos into searchable knowledge, enabling a personalized AI learning experience.
+
 
 # How to use this RAG AI Teaching assistant on your own data
 ## Step 1 - Collect your videos
