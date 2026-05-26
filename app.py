@@ -33,7 +33,7 @@ for k, v in {
 #  GROQ CONFIG
 # ─────────────────────────────────────────────
 GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "")
-GROQ_MODEL   = "llama3-70b-8192"
+GROQ_MODEL   = "llama-3.3-70b-versatile"
 
 # ─────────────────────────────────────────────
 #  GLOBAL STYLE  (unchanged)
@@ -68,7 +68,7 @@ html, body, .stApp { background-color: #05080f !important; color: #c4cfe0; font-
 .chip { background:#0a1020; border:1px solid #111d30; border-radius:10px; padding:14px 22px; min-width:130px; position:relative; overflow:hidden; }
 .chip::before { content:''; position:absolute; top:0; left:0; right:0; height:1px; background:linear-gradient(90deg,#2acea840,transparent); }
 .chip-val { font-family:'Syne',sans-serif; font-size:26px; color:#5ba4f5; font-weight:800; line-height:1.1; }
-.chip-lbl { font-size:9px; letter-spacing:2.5px; text-transform:uppercase; color:#253040; margin-top:4px; font-weight:500; }
+.chip-lbl { font-size:9px; letter-spacing:2.5px; text-transform:uppercase; color:#4a6080; margin-top:4px; font-weight:500; }
 .log-box { background:#040810; border:1px solid #0e1826; border-radius:10px; padding:14px 18px; font-family:'Courier New',monospace; font-size:11.5px; color:#2acea8; max-height:180px; overflow-y:auto; line-height:2; }
 .res-card { background:#070c18; border:1px solid #111d30; border-radius:14px; padding:18px 22px; margin-bottom:12px; transition:border-color .25s, box-shadow .25s; }
 .res-card:hover { border-color:#2acea850; box-shadow:0 4px 24px #2acea810; }
@@ -150,7 +150,12 @@ def generate_response(prompt, temperature=0.4):
         },
         timeout=30
     )
-    return r.json()["choices"][0]["message"]["content"]
+    data = r.json()
+    # Surface any API-level error clearly instead of crashing
+    if r.status_code != 200 or "choices" not in data:
+        error_msg = data.get("error", {}).get("message", str(data))
+        return f"**Groq API Error ({r.status_code}):** {error_msg}"
+    return data["choices"][0]["message"]["content"]
 
 def check_groq_status():
     if not GROQ_API_KEY:
