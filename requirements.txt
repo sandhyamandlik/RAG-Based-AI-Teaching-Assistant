@@ -5,6 +5,8 @@ joblib
 numpy
 requests
 openai-whisper
+sentence-transformers
+torch
 ffmpeg-python
 python-dotenv
 fastapi
