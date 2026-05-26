@@ -33,7 +33,7 @@ for k, v in {
 #  GROQ CONFIG
 # ─────────────────────────────────────────────
 GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "")
-GROQ_MODEL   = "llama3-70b-8192"
+GROQ_MODEL   = "llama-3.3-70b-versatile"
 
 # ─────────────────────────────────────────────
 #  GLOBAL STYLE  (unchanged)
