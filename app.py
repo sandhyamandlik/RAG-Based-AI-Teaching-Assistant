@@ -13,7 +13,7 @@ import time
 # ─────────────────────────────────────────────
 #  PAGE CONFIG
 # ─────────────────────────────────────────────
-st.set_page_config(page_title="VidMind AI", layout="wide", page_icon="🧠")
+st.set_page_config(page_title="VidMind AI", layout="wide")
 
 # ─────────────────────────────────────────────
 #  SESSION STATE
@@ -249,12 +249,6 @@ with st.sidebar:
         </div>""", unsafe_allow_html=True)
 
     # ── Embedding model info ──
-    st.markdown("""
-    <div style="background:#080d18;border:1px solid #111d30;border-radius:12px;padding:14px 16px;margin-top:12px;">
-        <div style="font-family:'Syne',sans-serif;font-size:11px;font-weight:700;letter-spacing:2px;color:#5ba4f5;text-transform:uppercase;">Embedding Model</div>
-        <div style="font-size:10px;color:#253040;margin-top:4px;letter-spacing:1px;">all-MiniLM-L6-v2 · Local</div>
-    </div>""", unsafe_allow_html=True)
-
     st.markdown("---")
     st.markdown("### 📊  SESSION")
     st.markdown(f"**Queries:** `{st.session_state.query_count}`")
@@ -301,7 +295,7 @@ with st.sidebar:
 #  HEADER
 # ─────────────────────────────────────────────
 st.markdown('<div class="wordmark">◈  VIDMIND AI</div>', unsafe_allow_html=True)
-st.markdown('<div class="hero-title">Video Knowledge Engine</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-title">AI Teaching Assistant</div>', unsafe_allow_html=True)
 st.markdown('<div class="hero-sub">Upload · Transcribe · Embed · Discover</div>', unsafe_allow_html=True)
 st.markdown(stepper_html(st.session_state.active_step), unsafe_allow_html=True)
 
