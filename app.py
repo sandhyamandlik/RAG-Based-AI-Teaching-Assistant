@@ -13,7 +13,7 @@ import time
 # ─────────────────────────────────────────────
 #  PAGE CONFIG
 # ─────────────────────────────────────────────
-st.set_page_config(page_title="VidMind AI", layout="wide")
+st.set_page_config(page_title="VidMind AI", layout="wide", page_icon="🧠")
 
 # ─────────────────────────────────────────────
 #  SESSION STATE
@@ -33,7 +33,7 @@ for k, v in {
 #  GROQ CONFIG
 # ─────────────────────────────────────────────
 GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "")
-GROQ_MODEL   = "llama-3.3-70b-versatile"
+GROQ_MODEL   = "llama3-70b-8192"
 
 # ─────────────────────────────────────────────
 #  GLOBAL STYLE  (unchanged)
@@ -262,11 +262,46 @@ with st.sidebar:
         st.session_state.pipeline_log = []
         st.rerun()
 
+    st.markdown("---")
+    st.markdown("### 🔄  RESET")
+    st.markdown('<p style="font-size:11px;color:#2e3e55;line-height:1.6;">Deletes all videos, audios, transcripts and embeddings. Use this to start fresh with new videos.</p>', unsafe_allow_html=True)
+
+    if "confirm_reset" not in st.session_state:
+        st.session_state.confirm_reset = False
+
+    if not st.session_state.confirm_reset:
+        if st.button("Reset Everything", use_container_width=True):
+            st.session_state.confirm_reset = True
+            st.rerun()
+    else:
+        st.markdown('<p style="font-size:11px;color:#f43f5e;">Are you sure? This cannot be undone.</p>', unsafe_allow_html=True)
+        c1, c2 = st.columns(2)
+        if c1.button("Yes, Reset", use_container_width=True):
+            import shutil
+            for folder in ["videos", "audios", "jsons"]:
+                if os.path.exists(folder):
+                    shutil.rmtree(folder)
+            if os.path.exists("embeddings.joblib"):
+                os.remove("embeddings.joblib")
+            # reset session
+            st.session_state.active_step    = 0
+            st.session_state.pipeline_log   = []
+            st.session_state.last_results   = None
+            st.session_state.ai_response    = ""
+            st.session_state.query_count    = 0
+            st.session_state.confirm_reset  = False
+            st.cache_data.clear()
+            st.success("Reset complete!")
+            st.rerun()
+        if c2.button("Cancel", use_container_width=True):
+            st.session_state.confirm_reset = False
+            st.rerun()
+
 # ─────────────────────────────────────────────
 #  HEADER
 # ─────────────────────────────────────────────
 st.markdown('<div class="wordmark">◈  VIDMIND AI</div>', unsafe_allow_html=True)
-st.markdown('<div class="hero-title">AI Teaching Assitant</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-title">Video Knowledge Engine</div>', unsafe_allow_html=True)
 st.markdown('<div class="hero-sub">Upload · Transcribe · Embed · Discover</div>', unsafe_allow_html=True)
 st.markdown(stepper_html(st.session_state.active_step), unsafe_allow_html=True)
 
