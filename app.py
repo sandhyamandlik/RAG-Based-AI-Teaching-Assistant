@@ -13,7 +13,7 @@ import time
 # ─────────────────────────────────────────────
 #  PAGE CONFIG
 # ─────────────────────────────────────────────
-st.set_page_config(page_title="VidMind AI", layout="wide", page_icon="🧠")
+st.set_page_config(page_title="VidMind AI", layout="wide")
 
 # ─────────────────────────────────────────────
 #  SESSION STATE
@@ -266,7 +266,7 @@ with st.sidebar:
 #  HEADER
 # ─────────────────────────────────────────────
 st.markdown('<div class="wordmark">◈  VIDMIND AI</div>', unsafe_allow_html=True)
-st.markdown('<div class="hero-title">Video Knowledge Engine</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-title">AI Teaching Assitant</div>', unsafe_allow_html=True)
 st.markdown('<div class="hero-sub">Upload · Transcribe · Embed · Discover</div>', unsafe_allow_html=True)
 st.markdown(stepper_html(st.session_state.active_step), unsafe_allow_html=True)
 
