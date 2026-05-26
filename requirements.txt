@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+joblib
+numpy
+requests
+openai-whisper
+ffmpeg-python
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+
+

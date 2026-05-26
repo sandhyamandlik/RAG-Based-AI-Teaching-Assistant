@@ -1,0 +1,726 @@
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 0.0,
+            "end": 2.32,
+            "text": "Welcome back, aliens. My name is Naveen Weddy."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 2.32,
+            "end": 6.12,
+            "text": "And finally, we are starting with a series on Python or Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 6.12,
+            "end": 7.5200000000000005,
+            "text": "It doesn't matter how you pronounce it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 7.5200000000000005,
+            "end": 11.4,
+            "text": "What matters is it is one of the fastest growing language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 11.4,
+            "end": 12.48,
+            "text": "In what terms?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 12.48,
+            "end": 15.040000000000001,
+            "text": "In terms of number of developers who are using it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 15.040000000000001,
+            "end": 17.240000000000002,
+            "text": "In terms of the number of libraries we have."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 17.240000000000002,
+            "end": 19.56,
+            "text": "In terms of number of companies who are using it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 19.56,
+            "end": 22.64,
+            "text": "And in terms of the areas you can implement it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 22.64,
+            "end": 23.92,
+            "text": "You talk about machine learning."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 23.92,
+            "end": 27.080000000000002,
+            "text": "You talk about GUI, software development, web development."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 27.080000000000002,
+            "end": 29.0,
+            "text": "You can use it everywhere."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 29.16,
+            "end": 33.28,
+            "text": "And that's why it is also called as a general purpose language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 33.28,
+            "end": 35.88,
+            "text": "So in this video we are going to talk about what is Python"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 35.88,
+            "end": 38.8,
+            "text": "and why it is so useful and why you should learn it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 38.8,
+            "end": 40.120000000000005,
+            "text": "So what is Python?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 40.120000000000005,
+            "end": 42.96,
+            "text": "As I mentioned, Python is a programming language of course."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 42.96,
+            "end": 48.04,
+            "text": "But it's also an interpreted object oriented and high level language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 48.04,
+            "end": 50.28,
+            "text": "Now does it mean you cannot do procedures here?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 50.28,
+            "end": 53.120000000000005,
+            "text": "You can. It also supports procedure and programming"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 53.120000000000005,
+            "end": 54.72,
+            "text": "as well as object oriented."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 54.72,
+            "end": 56.400000000000006,
+            "text": "It depends upon your purpose, right?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 56.400000000000006,
+            "end": 57.92,
+            "text": "You can use it the way you want."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 58.0,
+            "end": 59.800000000000004,
+            "text": "But why Python is so famous?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 59.800000000000004,
+            "end": 64.48,
+            "text": "We have C++, Java, JavaScript, and still Python is famous?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 64.48,
+            "end": 67.36,
+            "text": "Now some people say that Python is a new language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 67.36,
+            "end": 68.64,
+            "text": "And not exactly."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 68.64,
+            "end": 73.64,
+            "text": "Java came into picture in 1995 and Python came in 1989."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 74.36,
+            "end": 76.4,
+            "text": "So it's way before Java, right?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 76.4,
+            "end": 79.24000000000001,
+            "text": "Now so when Java came into picture the enterprise market,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 79.24000000000001,
+            "end": 81.08,
+            "text": "you know, everyone started using Java."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 81.08,
+            "end": 82.8,
+            "text": "But then Python was there."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 82.8,
+            "end": 85.64,
+            "text": "You know, it was there for other people to use example."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 85.64,
+            "end": 88.4,
+            "text": "Let's say if you want to learn a language for the first time,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 88.4,
+            "end": 89.64,
+            "text": "Python was there."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 89.64,
+            "end": 93.24,
+            "text": "But now since the advancement of machine learning AI,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 93.24,
+            "end": 96.28,
+            "text": "this is a field where we have research scientists"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 96.28,
+            "end": 97.84,
+            "text": "they don't want to spend much time"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 97.84,
+            "end": 99.36,
+            "text": "on learning programming language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 99.36,
+            "end": 102.88,
+            "text": "So what they do, they went for the easiest language available"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 102.88,
+            "end": 105.56,
+            "text": "and the easiest language available in the market is Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 105.56,
+            "end": 107.92,
+            "text": "And yes, Python is damn easy."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 107.92,
+            "end": 110.76,
+            "text": "It is much simpler than C++ and Java."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 110.76,
+            "end": 113.0,
+            "text": "That's why most of the colleges and schools"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 113.0,
+            "end": 115.04,
+            "text": "they are teaching Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 115.04,
+            "end": 117.60000000000001,
+            "text": "You might be thinking which company uses Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 117.60000000000001,
+            "end": 120.64,
+            "text": "Now let's just list those small, small companies who use this Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 120.64,
+            "end": 123.2,
+            "text": "We have Google, we have YouTube, we have Dropbox."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 123.2,
+            "end": 127.12,
+            "text": "So we can see we have all these companies who are using Python"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 127.12,
+            "end": 130.44,
+            "text": "as a main language or as a support language example."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 130.44,
+            "end": 133.0,
+            "text": "Let's say Google has so many features."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 133.0,
+            "end": 136.16,
+            "text": "Some of those features is code and in Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 136.16,
+            "end": 139.68,
+            "text": "Now in the same way we have this one of the big website call as Reddit."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 139.68,
+            "end": 142.72,
+            "text": "Reddit is today written in Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 142.72,
+            "end": 144.60000000000002,
+            "text": "Now let's focus on this name Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 144.64,
+            "end": 147.68,
+            "text": "In fact, when you talk about C++ Java,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 147.68,
+            "end": 149.84,
+            "text": "these names they have some story, right?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 149.84,
+            "end": 150.79999999999998,
+            "text": "What about Python?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 150.79999999999998,
+            "end": 153.24,
+            "text": "It's just because this language looks like a snake."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 153.24,
+            "end": 155.72,
+            "text": "And not exactly the author of Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 155.72,
+            "end": 158.79999999999998,
+            "text": "He's a big fan of a British comedy movie called"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 158.79999999999998,
+            "end": 161.6,
+            "text": "as Monte Python's flying circles."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 161.6,
+            "end": 164.44,
+            "text": "And that's why he went with a name called as Python initially"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 164.44,
+            "end": 166.79999999999998,
+            "text": "and then when everyone wanted, everyone liked it,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 166.79999999999998,
+            "end": 168.4,
+            "text": "he went for the same name."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 168.4,
+            "end": 170.68,
+            "text": "Now can we learn Python and the answer is yes."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 170.68,
+            "end": 172.6,
+            "text": "It is one of the easiest language to learn"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 172.6,
+            "end": 175.04,
+            "text": "and even if you are from a non technical background,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 175.04,
+            "end": 178.2,
+            "text": "you have not written any code, you can start with Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 178.2,
+            "end": 180.44,
+            "text": "What if I say Python came into picture"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 180.44,
+            "end": 183.44,
+            "text": "just to help those people who don't know how to learn a code?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 183.44,
+            "end": 185.32,
+            "text": "In fact, children can learn Python."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 185.32,
+            "end": 186.72,
+            "text": "It's that easy."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 186.72,
+            "end": 188.4,
+            "text": "Now Python has multiple versions."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 188.4,
+            "end": 191.68,
+            "text": "We have 1.x, we have 2.x and we have 3.x."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 191.68,
+            "end": 194.12,
+            "text": "And of course, we should be learning 3.x, right?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 194.12,
+            "end": 196.72,
+            "text": "That means 2.x is not in the market"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 196.72,
+            "end": 198.72,
+            "text": "and the answer is no."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 198.72,
+            "end": 201.0,
+            "text": "The 2.x is still in the market."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 201.0,
+            "end": 203.4,
+            "text": "Because when 3.x came into picture,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 203.4,
+            "end": 205.68,
+            "text": "it was very different from 2.x."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 205.68,
+            "end": 207.92,
+            "text": "Normally what happens in programming language, you know?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 207.92,
+            "end": 209.64,
+            "text": "When Java 8 came into picture,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 209.64,
+            "end": 212.52,
+            "text": "so it was backward compatible with Java 1.7."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 212.52,
+            "end": 214.48,
+            "text": "When Java 1.7 came into picture,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 214.48,
+            "end": 216.92,
+            "text": "it was backward compatible with 1.6."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 216.92,
+            "end": 219.08,
+            "text": "But that's not the case with Python, you know?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 219.08,
+            "end": 222.32,
+            "text": "The two different versions has two different way of working."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 222.32,
+            "end": 225.68,
+            "text": "And that's why we have 2.x still running in the market."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 225.68,
+            "end": 228.4,
+            "text": "And it does have a support till 2020."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 228.4,
+            "end": 229.68,
+            "text": "So which one you should learn?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 229.68,
+            "end": 230.92000000000002,
+            "text": "Of course, 3.x, right?"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 230.92000000000002,
+            "end": 233.84,
+            "text": "Because it is new and there will be a lot of features"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 233.84,
+            "end": 235.04000000000002,
+            "text": "which you can work on."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 235.04000000000002,
+            "end": 236.8,
+            "text": "So that's the introduction from this video."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 236.8,
+            "end": 239.36,
+            "text": "In the next video, we'll talk about how to install Python,"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 239.36,
+            "end": 241.6,
+            "text": "how to work with different stuff."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 241.6,
+            "end": 244.52,
+            "text": "And the entire series, we will enjoy this language."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 244.52,
+            "end": 246.44,
+            "text": "So I hope you will be watching this series."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 246.44,
+            "end": 247.68,
+            "text": "Let me know in the comment section"
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 247.68,
+            "end": 249.76000000000002,
+            "text": "and do feel like what if you're enjoying it."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 249.76000000000002,
+            "end": 251.28,
+            "text": "Thanks for watching everyone."
+        },
+        {
+            "number": "01",
+            "title": "#1 Python Tutorial for Beginners ｜ Introduction to Python [hEgO047GxaQ]",
+            "start": 251.28,
+            "end": 252.12,
+            "text": "Bye-bye."
+        }
+    ],
+    "text": "Welcome back, aliens. My name is Naveen Weddy. And finally, we are starting with a series on Python or Python. It doesn't matter how you pronounce it. What matters is it is one of the fastest growing language. In what terms? In terms of number of developers who are using it. In terms of the number of libraries we have. In terms of number of companies who are using it. And in terms of the areas you can implement it. You talk about machine learning. You talk about GUI, software development, web development. You can use it everywhere. And that's why it is also called as a general purpose language. So in this video we are going to talk about what is Python and why it is so useful and why you should learn it. So what is Python? As I mentioned, Python is a programming language of course. But it's also an interpreted object oriented and high level language. Now does it mean you cannot do procedures here? You can. It also supports procedure and programming as well as object oriented. It depends upon your purpose, right? You can use it the way you want. But why Python is so famous? We have C++, Java, JavaScript, and still Python is famous? Now some people say that Python is a new language. And not exactly. Java came into picture in 1995 and Python came in 1989. So it's way before Java, right? Now so when Java came into picture the enterprise market, you know, everyone started using Java. But then Python was there. You know, it was there for other people to use example. Let's say if you want to learn a language for the first time, Python was there. But now since the advancement of machine learning AI, this is a field where we have research scientists they don't want to spend much time on learning programming language. So what they do, they went for the easiest language available and the easiest language available in the market is Python. And yes, Python is damn easy. It is much simpler than C++ and Java. That's why most of the colleges and schools they are teaching Python. You might be thinking which company uses Python. Now let's just list those small, small companies who use this Python. We have Google, we have YouTube, we have Dropbox. So we can see we have all these companies who are using Python as a main language or as a support language example. Let's say Google has so many features. Some of those features is code and in Python. Now in the same way we have this one of the big website call as Reddit. Reddit is today written in Python. Now let's focus on this name Python. In fact, when you talk about C++ Java, these names they have some story, right? What about Python? It's just because this language looks like a snake. And not exactly the author of Python. He's a big fan of a British comedy movie called as Monte Python's flying circles. And that's why he went with a name called as Python initially and then when everyone wanted, everyone liked it, he went for the same name. Now can we learn Python and the answer is yes. It is one of the easiest language to learn and even if you are from a non technical background, you have not written any code, you can start with Python. What if I say Python came into picture just to help those people who don't know how to learn a code? In fact, children can learn Python. It's that easy. Now Python has multiple versions. We have 1.x, we have 2.x and we have 3.x. And of course, we should be learning 3.x, right? That means 2.x is not in the market and the answer is no. The 2.x is still in the market. Because when 3.x came into picture, it was very different from 2.x. Normally what happens in programming language, you know? When Java 8 came into picture, so it was backward compatible with Java 1.7. When Java 1.7 came into picture, it was backward compatible with 1.6. But that's not the case with Python, you know? The two different versions has two different way of working. And that's why we have 2.x still running in the market. And it does have a support till 2020. So which one you should learn? Of course, 3.x, right? Because it is new and there will be a lot of features which you can work on. So that's the introduction from this video. In the next video, we'll talk about how to install Python, how to work with different stuff. And the entire series, we will enjoy this language. So I hope you will be watching this series. Let me know in the comment section and do feel like what if you're enjoying it. Thanks for watching everyone. Bye-bye."
+}

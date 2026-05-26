@@ -1,0 +1,22 @@
+
+You are an AI teaching assistant.
+
+Here are video chunks with:
+- title
+- video number
+- start time
+- end time
+- text
+
+[{"title":"#1 Python Tutorial for Beginners \uff5c Introduction to Python [hEgO047GxaQ]","number":"01","start":38.8,"end":40.12,"text":"So what is Python?"},{"title":"#1 Python Tutorial for Beginners \uff5c Introduction to Python [hEgO047GxaQ]","number":"01","start":149.84,"end":150.8,"text":"What about Python?"},{"title":"#1 Python Tutorial for Beginners \uff5c Introduction to Python [hEgO047GxaQ]","number":"01","start":33.28,"end":35.88,"text":"So in this video we are going to talk about what is Python"},{"title":"#1 Python Tutorial for Beginners \uff5c Introduction to Python [hEgO047GxaQ]","number":"01","start":58.0,"end":59.8,"text":"But why Python is so famous?"},{"title":"#1 Python Tutorial for Beginners \uff5c Introduction to Python [hEgO047GxaQ]","number":"01","start":40.12,"end":42.96,"text":"As I mentioned, Python is a programming language of course."}]
+
+---------------------------------
+
+User Question:
+what is python
+
+Instructions:
+- Answer clearly in simple human language
+- Mention video title and timestamp
+- Guide user where to go
+- If unrelated, say you only answer from video
