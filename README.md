@@ -69,8 +69,7 @@ ollama serve
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourname/vidmind-ai.git
-cd vidmind-ai
+git clone https://github.com/sandhyamandlik/RAG-Based-AI-Teaching-Assistant
 ```
 
 **2. Install Python dependencies**
